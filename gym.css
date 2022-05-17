@@ -1,0 +1,167 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1087580.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 99px;
+    float: left;
+}
+
+#boom1 {
+    display: inline-block;
+    color: #e4e4eb;
+    position: relative;
+    margin-bottom: 0px;
+    bottom: 36px;
+    padding-left: 12px;
+    font-size: 29px;
+    font-family: "Koulen script=latin rev=2";
+}
+
+#boom2 {
+    display: inline-block;
+    color: #e4e4eb;
+    position: relative;
+    bottom: 10px;
+    left: -90px;
+    padding-left: 12px;
+    font-size: 29px;
+    margin-top: 0px;
+    font-family: "Koulen script=latin rev=2";
+}
+
+.mid {
+    display: block;
+    width: 50%;
+    margin: -100px 400px;
+    font-size: larger;
+
+}
+
+.navbar {
+    display: inline-block;
+    list-style: none;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 0px 9px;
+}
+
+.navbar li a:hover {
+    border: 3.5px solid rgb(214, 139, 139);
+    border-radius: 10px;
+    padding: 0px 2px;
+    background-color: rgb(114, 133, 138);
+}
+
+.right {
+    position: absolute;
+    right: 34px;
+    top: 43px;
+
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    margin: 0px 9px;
+    padding: 0px 13px;
+    border: 2px solid rgb(213, 229, 234);
+    border-radius: 10px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: rgb(114, 133, 138);
+    color: aquamarine;
+}
+
+.container {
+    border: 2px solid rgb(213, 229, 234);
+    border-radius: 10px;
+    width: 400px;
+    height: 320px;
+    position: absolute;
+    top: 141px;
+}
+
+#head3 {
+    color: white;
+    font-size: 30px;
+    padding: 1px;
+    margin: 5px;
+}
+
+.form {
+    padding: 7px 80px;
+}
+
+.form input {
+    padding: 3px 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
+#butt {
+    padding: 3px 105px;
+    margin: 1px 80px;
+    width: auto;
+    display: block;
+    border-radius: 5px;
+    background-color: black;
+    color: #e4e4eb;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+}
+
+#butt:hover {
+    background-color: rgb(114, 133, 138);
+    ;
+}
+
+.headi {
+    color: #699595;
+    float: right;
+}
+
+.headi h3 {
+    position: absolute;
+    top: 230px;
+    font-size: 45px;
+    font-style: italic;
+    right: 148px;
+}
+
+#he1 {
+    position: absolute;
+    top: 350px;
+    right: 107px;
+    font-size: 55px;
+    font-family: 'Roboto Flex', sans-serif;
+    ;
+}
+
+#he2 {
+    position: absolute;
+    font-size: 55px;
+    top: 440px;
+    right: 20px;
+    font-family: 'Roboto Flex', sans-serif;
+}

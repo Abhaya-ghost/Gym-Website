@@ -1,0 +1,104 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/834254.jpg");
+    width: auto;
+}
+
+h1 {
+    color: #e4e4eb;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    position: absolute;
+    top: -23px;
+    left: 155px;
+
+}
+
+.wp a {
+    display: inline-block;
+    font-size: 33px;
+    text-decoration: none;
+    position: absolute;
+    top: 255px;
+    left: 375px;
+    font-weight: bolder;
+    color: #9c9191;
+}
+
+.wp a:hover {
+    color: aquamarine;
+}
+
+.wp img {
+    width: 165px;
+    height: 156px;
+    position: absolute;
+    bottom: 500px;
+    left: 365px;
+}
+
+.fb a {
+    display: inline-block;
+    font-size: 33px;
+    text-decoration: none;
+    position: absolute;
+    top: 255px;
+    left: 24px;
+    font-weight: bolder;
+    color: #9c9191;
+}
+
+.fb a:hover {
+    color: aquamarine;
+}
+
+.fb img {
+    width: 165px;
+    height: 156px;
+    position: absolute;
+    bottom: 500px;
+}
+
+.insta a {
+    display: inline-block;
+    font-size: 33px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 168px;
+    left: 19px;
+    font-weight: bolder;
+    color: #9c9191;
+}
+
+.insta a:hover {
+    color: aquamarine;
+}
+
+.insta img {
+    width: 165px;
+    height: 156px;
+    position: absolute;
+    bottom: 210px;
+}
+
+.link a {
+    display: inline-block;
+    font-size: 33px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 168px;
+    left: 385px;
+    font-weight: bolder;
+    color: #9c9191;
+}
+
+.link a:hover {
+    color: aquamarine;
+}
+
+.link img {
+    width: 165px;
+    height: 156px;
+    position: absolute;
+    bottom: 210px;
+    left: 365px;
+}
